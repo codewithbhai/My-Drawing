@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="viewModel"
+            type="com.advance.mydrawing.number_know.models.NumberIdentifierViewModel" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+            <com.advance.mydrawing.number_know.DrawingView
+                android:id="@+id/drawView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_constraintDimensionRatio="1:1"
+                android:background="#000000"/>
+
+        <Button
+            android:id="@+id/submit_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:textSize="18sp"
+            android:text="Clear"
+            android:layout_gravity="center"/>
+
+    </RelativeLayout>
+
+</layout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_colors">
+
+        <!-- Additional primary colors -->
+        <item>#FF0000</item> <!-- Red -->
+        <item>#00FF00</item> <!-- Green -->
+        <item>#0000FF</item> <!-- Blue -->
+        <item>#FFFF00</item> <!-- Yellow -->
+        <item>#FF00FF</item> <!-- Magenta -->
+
+        <item>#00FFFF</item> <!-- Cyan -->
+        <item>#FFA500</item> <!-- Orange -->
+        <item>#800080</item> <!-- Purple -->
+        <item>#008000</item> <!-- Dark Green -->
+        <item>#808080</item> <!-- Gray -->
+
+        <item>#f44236</item>
+        <item>#ea1e63</item>
+        <item>#9a28b1</item>
+        <item>#683ab7</item>
+        <item>#2F4FE3</item>
+
+        <item>#2295f0</item>
+        <item>#04a8f5</item>
+        <item>#00bed2</item>
+        <item>#009788</item>
+        <item>#4cb050</item>
+
+        <item>#ff9700</item>
+        <item>#FFC000</item>
+        <item>#D2E41D</item>
+        <item>#fe5722</item>
+        <item>#795547</item>
+
+    </array>
+</resources>

@@ -1,0 +1,4 @@
+/home/it-admin/AndroidStudioProjects/MyDrawing/app/mydrawing_kids.jks
+keystore password: MyKid&#$Drawing12
+key password: Kids%$Draw
+key0
